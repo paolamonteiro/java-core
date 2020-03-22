@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "The Hound of Baskerville",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "id": 2,
+    "title": "The Body in the Library",
+    "author": "Agatha Christie"
+  },
+  {
+    "id": 3,
+    "title": "The Chronicles of Narnia",
+    "author": "Clive Staples Lewis"
+  },
+  {
+    "id": 4,
+    "title": "The Sign of Four",
+    "author": "Sir Arthur Conan Doyle"
+  },
+  {
+    "id": 5,
+    "title": "Clean Code",
+    "author": "Robert Cecil Martin"
+  },
+  {
+    "id": 6,
+    "title": "Ode to Happiness",
+    "author": "Keanu Reeves"
+  },
+  {
+    "id": 7,
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J. K. Rowling"
+  },
+  {
+    "id": 8,
+    "title": "The Fellowship of the Ring",
+    "author": "J. R. R. Tolkien"
+  },
+  {
+    "id": 9,
+    "title": "A Dance with Dragons",
+    "author": "George R. R. Martin"
+  },
+  {
+    "id": 10,
+    "title": "Black Ice",
+    "author": "Andrew Lane"
+  },
+  {
+    "id": 11,
+    "title": "A Feast for Crows",
+    "author": "George R. R. Martin"
+  }
+]

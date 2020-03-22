@@ -1,0 +1,142 @@
+[
+  {
+    "bookId": 1,
+    "readerId": 1,
+    "readerName": "Paola",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "bookReturnDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "latePenalty": 0.0,
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 2,
+    "readerId": 2,
+    "readerName": "Gabriela",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "bookReturnDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "latePenalty": 0.0,
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 3,
+    "readerId": 1,
+    "readerName": "Paola",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "bookReturnDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "latePenalty": 0.0,
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 4,
+    "readerId": 1,
+    "readerName": "Paola",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "bookReturnDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "latePenalty": 0.0,
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 5,
+    "readerId": 5,
+    "readerName": "Mari",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "bookReturnDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "latePenalty": 0.0,
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 6,
+    "readerId": 5,
+    "readerName": "Mari",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 7,
+    "readerId": 7,
+    "readerName": "Thais",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 8,
+    "readerId": 4,
+    "readerName": "Nicole",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 10,
+    "readerId": 6,
+    "readerName": "Bruno",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "daysOfDelay": 0
+  },
+  {
+    "bookId": 11,
+    "readerId": 11,
+    "readerName": "Julia",
+    "loanDate": {
+      "year": 2019,
+      "month": 12,
+      "day": 9
+    },
+    "daysOfDelay": 0
+  }
+]

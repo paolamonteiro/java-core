@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.paolamonteiro.core.library.view.LibraryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-12-10T01:58:24" hostname="paola-K42F" time="0.827">
+  <properties/>
+  <testcase name="makeLoanTest" classname="com.paolamonteiro.core.library.view.LibraryTest" time="0.812"/>
+  <testcase name="returnBooksTest" classname="com.paolamonteiro.core.library.view.LibraryTest" time="0.007"/>
+  <testcase name="renewLoanTest" classname="com.paolamonteiro.core.library.view.LibraryTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
