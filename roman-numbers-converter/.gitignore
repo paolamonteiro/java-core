@@ -1,0 +1,13 @@
+*.iml
+.idea/
+out/
+.gradle/
+gradle/
+.gradle
+gradle-app.setting
+.iml
+.iml/
+*.xml
+.xml
+.xml/
+*.bat
